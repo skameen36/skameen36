@@ -32,12 +32,7 @@ Here are some of the technologies and tools I'm proficient with:
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikhAmeen&show_icons=true&theme=radical&hide_border=true" alt="Shaikh Ameen's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikhAmeen&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
