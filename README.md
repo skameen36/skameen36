@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/8Lhj0kw7/Gemini-Generated-Image-xn5nixn5nixn5nix.png" alt="Welcome to my world ... I'm Shaikh Ameen - Frontend Developer" /> 
+  <img src="https://i.ibb.co/BDmjkWD/Gemini-Generated-Image-xn5nixn5nixn5nix.png" alt="Welcome to my world ... I'm Shaikh Ameen - Frontend Developer" /> 
 </p>
 
 <p align="center">
