@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-I'm a **Frontend Developer** with over **2.5 years of professional experience**, dedicated to crafting engaging and user-friendly web applications. Currently, I'm contributing my skills as a Software Associate – Frontend Developer at **Vigit Technologies Pvt. Ltd.**
+
 
 My passion lies in bringing designs to life with clean, efficient code. I specialize in **React.js**, leveraging modern JavaScript (ES6+) and **Tailwind CSS** to build highly responsive and intuitive user interfaces. I'm adept at managing complex **state**, implementing **dynamic routing**, and handling common UI patterns like **pagination** and **filtering**. My experience also includes robust **form validation** and seamlessly integrating **REST APIs**.
 
